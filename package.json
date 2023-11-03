@@ -209,7 +209,7 @@
     "crowdin": "1.0.0",
     "csvjson": "4.3.3",
     "electron": "11.4.10",
-    "electron-builder": "22.9.1",
+    "electron-builder": "22.14.13",
     "electron-notarize": "1.0.0",
     "electron-packager": "15.1.0",
     "mocha": "5.2.0",
