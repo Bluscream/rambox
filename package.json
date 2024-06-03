@@ -221,7 +221,7 @@
     "auto-launch-patched": "5.0.2",
     "crypto": "1.0.1",
     "darkreader": "4.9.67",
-    "diskusage": "1.1.3",
+    "diskusage": "1.2.0",
     "electron-contextmenu-wrapper": "git+https://github.com/ramboxapp/electron-contextmenu-wrapper.git",
     "electron-is-dev": "0.3.0",
     "electron-log": "2.2.17",
